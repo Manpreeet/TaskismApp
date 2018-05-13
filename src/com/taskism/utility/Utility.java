@@ -91,7 +91,7 @@ public class Utility {
 	}
 
 	/**
-	 * @author awdheshk
+	 * @author Manpreet Singh
 	 * @date Jan 30, 2014
 	 * @argument
 	 * @return Long
@@ -108,7 +108,7 @@ public class Utility {
 	}
 
 	/**
-	 * @author awdheshk
+	 * @author Manpreet Singh
 	 * @date Jan 30, 2014
 	 * @argument
 	 * @return Double
@@ -125,7 +125,7 @@ public class Utility {
 	}
 
 	/*	*//**
-	 * @user: awdheshk
+	 * @user: Manpreet Singh
 	 * @date Feb 10, 2014
 	 * @return void
 	 * @exception
@@ -148,7 +148,7 @@ public class Utility {
 	 */
 
 	/**
-	 * @user: awdheshk
+	 * @user: Manpreet Singh
 	 * @date Feb 15, 2014
 	 * @return void
 	 * @exception
@@ -168,7 +168,7 @@ public class Utility {
 	}
 
 	/**
-	 * @user: awdheshk
+	 * @user: Manpreet Singh
 	 * @date Feb 15, 2014
 	 * @return void
 	 * @exception
@@ -194,7 +194,7 @@ public class Utility {
 	}
 
 	/**
-	 * @user: awdheshk
+	 * @user: Manpreet Singh
 	 * @date Feb 19, 2014
 	 * @return String
 	 * @exception
@@ -211,7 +211,7 @@ public class Utility {
 	}
 
 	/**
-	 * @user: awdheshk
+	 * @user: Manpreet Singh
 	 * @date Mar 7, 2014
 	 * @return String
 	 * @exception
@@ -225,7 +225,7 @@ public class Utility {
 	}
 
 	/**
-	 * @user: awdheshk
+	 * @user: Manpreet Singh
 	 * @date Mar 7, 2014
 	 * @return String
 	 * @exception
@@ -248,7 +248,7 @@ public class Utility {
 	}
 
 	/**
-	 * @user: dinakarm
+	 * @user: Manpreet Singh
 	 * @date Feb 20, 2014
 	 * @return byte[]
 	 * @exception IOException
@@ -266,7 +266,7 @@ public class Utility {
 	}
 
 	/**
-	 * @user: dinakarm
+	 * @user: Manpreet Singh
 	 * @date Feb 20, 2014
 	 * @return Object
 	 * @exception IOException
@@ -287,7 +287,7 @@ public class Utility {
 	}
 
 	/**
-	 * @user: awdheshk
+	 * @user: Manpreet Singh
 	 * @date Feb 24, 2014
 	 * @return void
 	 * @exception
@@ -304,7 +304,7 @@ public class Utility {
 	}
 
 	/**
-	 * @user: awdheshk
+	 * @user: Manpreet Singh
 	 * @date Feb 26, 2014
 	 * @return boolean
 	 * @exception
@@ -330,7 +330,7 @@ public class Utility {
 	}
 
 	/**
-	 * @user: awdheshk
+	 * @user: Manpreet Singh
 	 * @date Mar 7, 2014
 	 * @return float
 	 * @exception
@@ -342,7 +342,7 @@ public class Utility {
 	}
 
 	/**
-	 * @user: awdheshk
+	 * @user: Manpreet Singh
 	 * @date Mar 19, 2014
 	 * @return Double
 	 * @exception
@@ -421,7 +421,7 @@ public class Utility {
 	}
 
 	/**
-	 * @user: dinakarm
+	 * @user: Manpreet Singh
 	 * @date Apr 1, 2014
 	 * @return String
 	 * @exception
@@ -440,7 +440,7 @@ public class Utility {
 	}
 
 	/**
-	 * @user: awdheshk
+	 * @user: Manpreet Singh
 	 * @date Apr 3, 2014
 	 * @return Drawable
 	 * @exception
@@ -458,7 +458,7 @@ public class Utility {
 	}
 
 	/**
-	 * @user: manpreet
+	 * @user: Manpreet Singh
 	 * @date Sep 24, 2015
 	 * @return void
 	 * @exception
@@ -473,8 +473,10 @@ public class Utility {
 
 	/**
 	 * 
-	 * developer:Manpreet date:03-Oct-2015 return:void description: method for
-	 * save setting prefrence in sharedPrefrence
+	 * developer:Manpreet Singh
+	 * date:03-Oct-2015
+	 * return:void 
+	 * description: method for save setting prefrence in sharedPrefrence
 	 */
 	public void saveSettings(String response,
 			SettingResponseCallback settingResponseCallback, Context context) {
